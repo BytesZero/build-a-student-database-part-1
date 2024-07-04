@@ -150,3 +150,5 @@ psql --username=freecodecamp --dbname=postgres
 ./insert_data.sh
 list
 ls --color=auto
+rm courses_test.csv
+rm students_test.csv
