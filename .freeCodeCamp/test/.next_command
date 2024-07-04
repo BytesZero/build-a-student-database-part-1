@@ -153,3 +153,4 @@ ls --color=auto
 rm courses_test.csv
 rm students_test.csv
 ls --color=auto
+pg_dump --help
