@@ -125,3 +125,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 chmod +x insert_data.sh
 psql --username=freecodecamp --dbname=postgres
 cat courses.csv
+__vsc_prompt_cmd_original
+./insert_data.sh
